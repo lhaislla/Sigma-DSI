@@ -1,6 +1,6 @@
 # Project Sigma / Projeto Sigma
 Projeto para a disciplina de Desenvolvimento de sistemas de informação
-By [Artillis Prado](https://github.com/TilinhoFrond-End), [Andressa Santana](https://github.com/dressalsl), [Lhaíslla Cavalcanti](https://github.com/lhaislla)
+By  [Andressa Santana](https://github.com/dressalsl), [Artillis Prado](https://github.com/TilinhoFrond-End),[Lhaíslla Cavalcanti](https://github.com/lhaislla)
 
 ## Getting Started / Introdução
 >This repository is dedicated to versioning the content about the development of the practical activities of the course DSI - Development for Information Systems, offered by the Bachelor of Information Systems course at UFRPE.
